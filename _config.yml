@@ -1,0 +1,16 @@
+title: Abdullah Aziz Sharfuddin
+position: Senior Software Engineer
+affiliation: bKash Ltd.
+email: abdullahshakkhor (at) gmail (dot) com
+keywords: minimal academic
+google_scholar: https://scholar.google.com/citations?user=s3o3xDwAAAAJ&hl=en&oi=ao
+github_link: https://github.com/shakkhor
+linkedin: https://www.linkedin.com/in/abdullah-sharfuddin/
+cv_link: ./assets/pdf/curriculum_vitae.pdf
+avatar: ./assets/img/mypic.jpeg
+google_analytics: UA-111540567-4
+favicon: ./assets/img/favicon.png
+favicon_dark: ./assets/img/favicon-dark.png
+description: The Strata Academic is a simple and elegant jekyll theme for academic personal homepage.
+canonical: https://strata-academic.yyliu.net/
+remote_theme: yaoyao-liu/strata-academic
