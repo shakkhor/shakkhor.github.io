@@ -58,11 +58,30 @@ I also led a dedicated team, delivering several projects and enhancing our ident
   IEEE Conference Bangla speech and language processing. ICBSLP 2018.</p>
   [[PDF](https://ieeexplore.ieee.org/abstract/document/8554396)]  <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
 
+
+
+
 <!-- <h2 class="h2-color">Selected Projects</h2> -->
 <!-- Projects -->
 <h2 class="h2-color" style="margin-top:24px; margin-bottom:4px">Selected Projects</h2>
-<h4 class="h2-color" style="margin : 0">Nextgen Recruitment Application @SELISE Digital Platforms, 2019</h4>
-<p class="par-color" style="margin-top: 0; text-align: justify;">This platform matches candidates to jobs based on their profiles. I led the development team as a full-stack developer. I helped implement the client’s existing matching algorithm in a more performant way utilizing message-driven distributed architecture and developed new features. I also helped the team with sprint planning, releases, and internal technical consultancy. Also implemented a keyword matching service that can help match a candidate based on specific keywords they put in their resume. </p>
+
+
+
+<h4 class="h2-color" style="margin : 0">e-POS</h4>
+<p class="par-color" style="margin-top: 0; margin-bottom:8px; text-align: justify;">It is a full-stack web-based POS solution with an administration feature. It was developed with NodeJs to aid gas stations in managing their sales and staff. It featured a role-based access control to ensure inventory and cash register security. It also featured keeping records of loans and an automated notification system for scheduled payments and tasks. </p>
+
+
+<h4 class="h2-color" style="margin : 0">Lekhoni</h4>
+<p class="par-color" style="margin-top: 0; text-align: justify; margin-bottom:8px;">It is an Android app to teach kids how to write Bengali alphabets. It has two modes: guided and unguided. In the guided mode, the app will show an alphabet, and a kid can draw the figure presented on the screen. In unguided mode, a kid can draw an alphabet and get feedback on whether it is written correctly. The feedback is calculated using a pertained OCR model for Bengali alphabets. </p>
+
+
+<h4 class="h2-color" style="margin : 0">P2P Solution</h4>
+<p class="par-color" style="margin-top: 0; text-align: justify; margin-bottom:8px;">It is a peer-to-peer chat and file-sharing desktop app that connects two devices on the same network or devices with public IP, using their IP addresses and designated port numbers. It uses Java Socket to communicate with each other. It used OOP and Software design principles to ensure fast connectivity, data management, and modular system design.</p>
+
+
+<h4 class="h2-color" style="margin : 0">MediAlert</h4>
+<p class="par-color" style="margin-top: 0; text-align: justify;">It is an Android app for medical alerts. You can upload a prescription and your medicine routine. The app will remind you to take medicines on time.</p>
+
 
 <h2 class="h2-color" style="margin-bottom:4px">Honours & Awards</h2>
   <ul>
