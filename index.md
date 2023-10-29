@@ -28,11 +28,11 @@ Additionally, recognizing the need for a more tailored solution, I took the init
 
 
 <h3 class="h2-color" style="margin-bottom:4px">Lead Backend Engineer, Hash Solution Ltd. [Jan'23 to July'23]</h3>
-<p class="par-color" style="margin-bottom:8px; text-align: justify;">At Hash Solutions, I played a pivotal role in shaping the technical landscape. I took the lead in designing the backend microservices architecture, laying a robust foundation for our systems. From there, I built the core backend service, starting from scratch and bringing it to fruition.</p>
+<p class="par-color" style="margin-bottom:8px; text-align: justify;">At Hash Solutions, I led the design of the backend microservices architecture, both web and hosted services. From there, I built the core backend service interfaces for inter-service communication and shared functionalities.</p>
 <p class="par-color" style="margin-bottom:8px; text-align: justify;">
-One of my significant contributions was designing and developing the core authentication and dashboard modules, integral components that added depth and functionality to our systems.</p>
+Additionally, I  developed the core authentication and authorization module to protect the services from unwanted access. I created a dashboard module for the admin to support customers and configure the software. I also integrated Stripe as a payment method, which offers a smooth user experience.</p>
 <p class="par-color" style="text-align: justify;">
-In addition to my technical contributions, I led the backend team and regularly conducted sprint planning, code reviews, and internal technical troubleshooting. Additionally, I took an active role in the hiring process, identifying and onboarding top talent to strengthen our team and elevate our capabilities.</p>
+In addition to my technical contributions, I led a backend team and regularly conducted sprint planning, code reviews, and internal technical troubleshooting. Aside from that, I took an active role in the hiring process and training the new joiners.</p>
 
 
 
