@@ -4,16 +4,16 @@ layout: homepage
 <h2 class="h2-color" style="margin-bottom:4px;"> About Me</h2>
 <p class="par-color" style="text-align: justify">I design and build scaleable, distributed and production ready software solutions that provides solutions to real world problems for millions of users. I can manage and work with cross functional teams.
 <br><br>
-I actively participate in research for new products and methodologies to improve the quality and performance of our software solutions.
+I love digging into research on making better software, ensuring cybersecurity, and improving how systems work together.
  </p>
 
 <h2 class="h2-color" style="margin-bottom:4px"> Research Interests </h2>
 
-<ul>
+<!-- <ul>
   <li class="par-color">Software Engineering</li>
   <li class="par-color">Human Computer Interaction</li>
   <li class="par-color">High Performance Computing</li>
-</ul>
+</ul> -->
 
 
 <h2 class="h2-color" style="margin-bottom:4px"> Publications </h2>
