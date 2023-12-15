@@ -7,7 +7,7 @@ layout: homepage
 I love digging into research on making better software, ensuring cybersecurity, and improving how systems work together.
  </p>
 
-<h2 class="h2-color" style="margin-bottom:4px"> Research Interests </h2>
+<!-- <h2 class="h2-color" style="margin-bottom:4px"> Research Interests </h2> -->
 
 <!-- <ul>
   <li class="par-color">Software Engineering</li>
