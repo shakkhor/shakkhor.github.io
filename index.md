@@ -35,7 +35,7 @@ Additionally, recognizing the need for a more tailored solution, I took the init
 
 
 
-<h3 class="h2-color" style="margin-bottom:4px">Lead Backend Engineer, Hash Solution Ltd. [Jan'23 to July'23]</h3>
+<h3 class="h2-color" style="margin-bottom:4px">Senior Backend Engineer, Hash Solution Ltd. [Jan'23 to July'23]</h3>
 <p class="par-color" style="margin-bottom:8px; text-align: justify;">At Hash Solutions, I led the design of the backend microservices architecture, both web and hosted services. From there, I built the core backend service interfaces for inter-service communication and shared functionalities.</p>
 <p class="par-color" style="margin-bottom:8px; text-align: justify;">
 Additionally, I  developed the core authentication and authorization module to protect the services from unwanted access. I created a dashboard module for the admin to support customers and configure the software. I also integrated Stripe as a payment method, which offers a smooth user experience.</p>
