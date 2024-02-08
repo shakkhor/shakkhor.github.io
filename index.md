@@ -124,9 +124,9 @@ I also led a team, conducting requirement analysis, sprint planning, code review
 - Journal Reviewers: [T-PAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34), and [IJCV](https://www.springer.com/journal/11263). -->
 
 
-<h2 class="h2-color" style="margin-bottom:4px">Test Scores</h2>
+<!-- <h2 class="h2-color" style="margin-bottom:4px">Test Scores</h2>
 <ul>
   <li class="par-color"><strong>GRE(312)</strong> Quant: 165 | Verbal: 147 | AWA: 3.5</li>
   <li class="par-color"><strong> IELTS(7.5)</strong>Listening: 8 | Reading: 8 | Speaking: 7 | Writing: 7</li>
-</ul>
+</ul> -->
 
