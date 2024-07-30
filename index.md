@@ -4,7 +4,7 @@ layout: homepage
 <h2 class="h2-color" style="margin-bottom:4px;"> About Me</h2>
 <p class="par-color" style="text-align: justify">I design and build scaleable, distributed and production ready software solutions that provides solutions to real world problems for millions of users. I can manage and work with cross functional teams.
 <br><br>
-I love digging into research on making better systems and improving how systems work together.
+I love digging into research on making secure and intelligent systems and improving how systems work together.
  </p>
 
 <!-- <h2 class="h2-color" style="margin-bottom:4px"> Research Interests </h2> -->
